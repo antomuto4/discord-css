@@ -1,5 +1,5 @@
 # discord-css
-### A collection of custom Discord CSS changes
+### A collection of custom Discord CSS that I wrote
 
 # Screenshots
 
