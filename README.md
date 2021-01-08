@@ -8,7 +8,10 @@
 # Screenshots
 
 [`darkpink`](https://github.com/antomuto4/discord-css/blob/main/css/darkpink.css) with transparency
-![screenshot](https://user-images.githubusercontent.com/56132390/101929966-ce4b9780-3bd7-11eb-9de2-6812598a64e9.png)
+![101929966-ce4b9780-3bd7-11eb-9de2-6812598a64e9_scrubbed](https://user-images.githubusercontent.com/56132390/104034516-43a78980-51d1-11eb-8e3c-85fc3acbee86.png)
+
+[`nord`](https://github.com/antomuto4/discord-css/blob/main/css/nord.css) without transparency
+![Screenshot_2021-01-08_16-38-30_scrubbed_scrubbed](https://user-images.githubusercontent.com/56132390/104034598-646fdf00-51d1-11eb-92d0-fb964bf672c2.png)
 
 
 # Some Questions
