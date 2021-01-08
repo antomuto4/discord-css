@@ -28,3 +28,5 @@ The Company reserves the right to modify or discontinue, temporarily or permanen
 While Bandaged BD does indeed violate the Discord Terms of Service, Discord has not been seen to take action on users for the mere usage of Bandaged BD.
 Of the (estimated) over 20 thousand users of Bandaged BD there have been 0 known cases of Discord banning someone just for using it.
 As long as you stick to plugins you obtained from the #official-plugin-repo channel in the BetterDiscord server you should be safe from being banned. 
+
+### We in this case are not installing any plugins that may harm or break our account. Editing the CSS however is not against TOS unless you're causing yourself harm.
