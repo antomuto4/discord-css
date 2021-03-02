@@ -1,0 +1,19 @@
+.theme-dark {
+    --background-tertiary: #282a36;
+    --background-secondary: #282a36;
+    --background-secondary-alt: #282a36;
+    --background-primary: #282a36;
+    --channeltextarea-background: #282a36;
+    --background-accent: #44475a;
+    --background-modifier-hover: #44475a;
+    --background-modifier-active: #44475a;
+    --background-modifier-selected: #bd93f9;
+    --deprecated-card-bg: #bd93f9;
+    --background-floating: #bd93f9;
+    --deprecated-quickswitcher-input-background:#bd93f9;
+    --scrollbar-auto-thumb: #bd93f9;
+    --scrollbar-auto-track: #44475a;
+    --scrollbar-thin-thumb: #bd93f9;
+    --spotify-color: #bd93f9;
+    --elevation-low: none;
+}
