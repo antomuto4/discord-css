@@ -1,6 +1,9 @@
 # discord-css
 ### A collection of custom Discord CSS that I wrote
 
+![discord-css](https://user-images.githubusercontent.com/56132390/112024335-612f9280-8b34-11eb-95ac-39ea6b2d5f2e.png)
+
+
 ### Tables
 - [Screenshots](#screenshots)
 - [Some Questions](#some-questions)
